@@ -1,0 +1,32 @@
+h1 {
+background:blue;
+}
+.paragraph1 {
+background:green;
+font-size:32pt;
+color: red
+}
+
+.paragraph2 {
+background:yellow;
+border: 10px solid  grey;
+border-radius:5px;
+font-size:24pt;
+margin-bottom:100px;
+padding-top:70px;
+padding-left:150px;
+}
+
+.paragraph3 {
+font-weight:bold;
+font-size:28pt;
+font-family: Arial;
+}
+
+.paragraph4 {
+
+}
+
+img {
+width: 500px;height: 429px;
+}
