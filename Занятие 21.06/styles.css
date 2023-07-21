@@ -24,7 +24,10 @@ font-family: Arial;
 }
 
 .paragraph4 {
-
+font-style: italic;
+text-align: center;
+font-size: 24pt;
+text-shadow: green 6px 8px 2px
 }
 
 img {
